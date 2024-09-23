@@ -1,0 +1,6 @@
+yfinance
+pandas
+numpy
+scikit-learn
+backtrader
+scipy
